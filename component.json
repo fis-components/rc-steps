@@ -5,5 +5,5 @@
     "main": "./lib/index",
     "tag": "master",
     "reposType": "npm",
-    "version": "1.4.0"
+    "version": "1.4.1"
 }

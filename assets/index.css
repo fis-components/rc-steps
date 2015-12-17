@@ -15,17 +15,17 @@ body {
   vertical-align: top;
 }
 .rc-steps .rc-steps-item.rc-steps-status-wait .rc-steps-head-inner {
-  border-color: #cccccc;
+  border-color: #ccc;
   background-color: #fff;
 }
 .rc-steps .rc-steps-item.rc-steps-status-wait .rc-steps-head-inner > .rc-steps-icon {
-  color: #cccccc;
+  color: #ccc;
 }
 .rc-steps .rc-steps-item.rc-steps-status-wait .rc-steps-title {
-  color: #999999;
+  color: #999;
 }
 .rc-steps .rc-steps-item.rc-steps-status-wait .rc-steps-description {
-  color: #999999;
+  color: #999;
 }
 .rc-steps .rc-steps-item.rc-steps-status-wait .rc-steps-tail > i {
   background-color: #e9e9e9;
@@ -38,10 +38,10 @@ body {
   color: #fff;
 }
 .rc-steps .rc-steps-item.rc-steps-status-process .rc-steps-title {
-  color: #666666;
+  color: #666;
 }
 .rc-steps .rc-steps-item.rc-steps-status-process .rc-steps-description {
-  color: #666666;
+  color: #666;
 }
 .rc-steps .rc-steps-item.rc-steps-status-process .rc-steps-tail > i {
   background-color: #e9e9e9;
@@ -57,10 +57,10 @@ body {
   background-color: #2db7f5;
 }
 .rc-steps .rc-steps-item.rc-steps-status-finish .rc-steps-title {
-  color: #999999;
+  color: #999;
 }
 .rc-steps .rc-steps-item.rc-steps-status-finish .rc-steps-description {
-  color: #999999;
+  color: #999;
 }
 .rc-steps .rc-steps-item.rc-steps-custom .rc-steps-head-inner {
   background: none;
@@ -88,7 +88,7 @@ body {
 }
 .rc-steps .rc-steps-head-inner {
   display: block;
-  border: 1px solid #cccccc;
+  border: 1px solid #ccc;
   width: 26px;
   height: 26px;
   line-height: 26px;
@@ -97,7 +97,6 @@ body {
   font-size: 14px;
   margin-right: 8px;
   transition: background-color 0.3s ease;
-  -webkit-transition: background-color 0.3s ease;
   transition: border-color 0.3s ease;
   -webkit-transition: border-color 0.3s ease;
   -moz-transition: border-color 0.3s ease;
@@ -150,7 +149,7 @@ body {
   -moz-transition: background 0.3s ease;
 }
 .rc-steps.rc-steps-small .rc-steps-head-inner {
-  border: 1px solid #cccccc;
+  border: 1px solid #ccc;
   width: 18px;
   height: 18px;
   line-height: 18px;
