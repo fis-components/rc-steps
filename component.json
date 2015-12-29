@@ -1,0 +1,9 @@
+{
+    "name": "rc-steps",
+    "description": "steps ui component for react",
+    "repos": "https://github.com/react-component/steps.git",
+    "main": "./lib/index",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "1.4.1"
+}
