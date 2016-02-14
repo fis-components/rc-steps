@@ -162,7 +162,6 @@ body {
   font-size: 12px;
   font-size: 9px \9;
   -webkit-transform: scale(0.75);
-  -ms-transform: scale(0.75);
   transform: scale(0.75);
   top: -1px;
 }
